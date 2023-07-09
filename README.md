@@ -17,7 +17,7 @@
 
 <div align="left">
   
-I am a fullstack Software Engineer based in Singapore with expertise in multiple programming languages and frameworks, experienced in merging technology and design to deliver innovative solutions and interactive experiences. As a proactive learner and collaborative team member, I thrive in dynamic environments, driving innovation, and contributing to impactful projects.
+I am a fullstack Software Engineer based in Singapore with expertise in multiple programming languages and frameworks and 10+ years of design experience, experienced in merging technology and design to deliver innovative solutions and interactive experiences. As a proactive learner and collaborative team member, I thrive in dynamic environments, driving innovation, and contributing to impactful projects.
 <br/>
 <br/>
 You should really check out my projects: <a href="https://github.com/joshenx/syn">Syn</a> and <a href="https://github.com/joshenx/concertcougher">Concert Cougher</a>
